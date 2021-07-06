@@ -11,7 +11,6 @@ open3d:0.12.0
 *pca_normal.py*  
 1.能对给定地址的三维点云图像做PCA降维（将3维降到1维）  
 2.求每个点的法向量并显示出来  
-***  
 运行  
 python pca_normal.py --isPCA  1
 对点云进行可视化  
@@ -25,5 +24,11 @@ python filter.py
 对深度图进行双边滤波  
 python Bilateral_new_filter.py  
 效果图：  
-
+![botton](image/botton.png)
+![botton](image/botton_PCA.png)
+![botton](image/botton_normal.png)
+![plane](image/plane_truth.png)
+![plane](image/plane_PCA.png)
+![plane](image/plane_normal.png)
+![plane](image/plane_filter.png)
 
