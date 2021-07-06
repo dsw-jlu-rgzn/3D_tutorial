@@ -24,11 +24,12 @@ python filter.py
 对深度图进行双边滤波  
 python Bilateral_new_filter.py  
 效果图：  
-![botton](image/botton.png)
-![botton](image/botton_PCA.png)
-![botton](image/botton_normal.png)
-![plane](image/plane_truth.png)
-![plane](image/plane_PCA.png)
-![plane](image/plane_normal.png)
-![plane](image/plane_filter.png)
+<a href="url"><img src="image/botton.png" align="left" height="300" width="100" ></a>
+<a href="url"><img src="image/botton_PCA.png" align="left" height="100" width="300" ></a>
+<a href="url"><img src="image/botton_normal.png" align="left" height="300" width="100" ></a>
+<a href="url"><img src="image/plane_truth.png" align="left" height="200" width="200" ></a>
+<a href="url"><img src="image/plane_PCA.png" align="left" height="200" width="200" ></a>
+<a href="url"><img src="image/plane_normal.png" align="left" height="200" width="200" ></a>
+<a href="url"><img src="image/plane_filter.png" align="left" height="200" width="200" ></a>
+
 
