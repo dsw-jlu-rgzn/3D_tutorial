@@ -45,5 +45,5 @@ if __name__=="__main__":
     ground_image =cv2.imread(os.path.join(ground_dir,os.listdir(dir)[0]),0)
     new_image = Bilateral_filter(depth_image, 3)
     cv2.imshow("new_image", new_image)
-    cv2.imwrite("bilateral_filter.jpg", new_image)
+    cv2.imwrite("./image/bilateral_filter.jpg", new_image)
     cv2.waitKey()
